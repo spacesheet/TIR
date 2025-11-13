@@ -13,5 +13,7 @@ image:resources/링크집합.png[링크집합]
 
 7.7.2 L3 스위치 이중화
 
+image:resources/L3_스위치_이중화.png.png[L3 스위치 이중화]
+
 
 7.7.3 네트워크 토폴로지
